@@ -1,0 +1,12 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated datasets
+*.csv
+*.xlsx
+
+# IDE settings
+.vscode/
